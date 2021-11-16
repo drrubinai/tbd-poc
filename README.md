@@ -3,7 +3,7 @@
 ## Running the unit tests
 You can run the unit tests with the following command
 ```
-python3 unit_tests.py
+python unit_tests.py
 ```
 
 `unit_tests.py` imports the calculator that we created and the `unittest` module needed to set up and run the tests.
