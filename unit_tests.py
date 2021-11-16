@@ -16,7 +16,7 @@ class TestCalculator(unittest.TestCase):
         calculator = cal(self.a, self.b)
         # print(calculator.add())
 
-        self.assertEqual(calculator.add(),443)
+        self.assertEqual(calculator.add(),444)
 
     def test_subtract(self):
         '''Testing subtract method'''
